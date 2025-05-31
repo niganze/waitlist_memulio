@@ -129,7 +129,7 @@ export default function MemulioWaitlist() {
                 Email Address <span className="text-red-500">*</span>
               </label>
               <p className="text-gray-600 mb-3 flex items-center">
-                <Mail className="w-4 h-4 mr-2 text-purple-500" />
+                {/* <Mail className="w-4 h-4 mr-2 text-purple-500" /> */}
                 We'll let you know the moment Memulio is ready.
               </p>
               <input
@@ -202,7 +202,7 @@ export default function MemulioWaitlist() {
                 />
                 <div>
                   <span className="text-lg font-semibold text-gray-800 flex items-center">
-                    <Users className="w-5 h-5 mr-2 text-orange-500" />
+                    {/* <Users className="w-5 h-5 mr-2 text-orange-500" /> */}
                     Would you like early access to FamilyLink?
                   </span>
                   <p className="text-gray-600 mt-1">Yes, I'd love to invite family members</p>
@@ -238,7 +238,7 @@ export default function MemulioWaitlist() {
                 />
                 <div>
                   <span className="text-lg font-semibold text-gray-800 flex items-center">
-                    <Heart className="w-5 h-5 mr-2 text-red-500 animate-pulse" />
+                    {/* <Heart className="w-5 h-5 mr-2 text-red-500 animate-pulse" /> */}
                     Would you like to get updates about our launch and features?
                   </span>
                   <p className="text-gray-600 mt-1">Yes, send me Memulio updates</p>
