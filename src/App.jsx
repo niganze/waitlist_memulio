@@ -205,7 +205,7 @@ export default function MemulioWaitlist() {
                     {/* <Users className="w-5 h-5 mr-2 text-orange-500" /> */}
                     Would you like early access to FamilyLink?
                   </span>
-                  <p className="text-gray-600 mt-1">Yes, I'd love to invite family members</p>
+                  <p className="text-gray-600 mt-1">Our family collaboration feature that lets trusted family members help manage calendars, set reminders, update medication schedules, and stay connected with your loved one's daily needs.</p>
                 </div>
               </label>
             </div>
